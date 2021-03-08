@@ -28,7 +28,7 @@ class Rover {
       'roverStatus' : roverStatuses
       }
     
-
+//test
     
     for(let i = 0; i < Message.commands.length; i++) {
      
